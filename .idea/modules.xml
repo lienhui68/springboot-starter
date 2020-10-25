@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eh-spring-boot-starter/eh-spring-boot-starter.iml" filepath="$PROJECT_DIR$/eh-spring-boot-starter/eh-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eh-spring-boot-starter-autoconfigurer/eh-spring-boot-starter-autoconfigurer.iml" filepath="$PROJECT_DIR$/eh-spring-boot-starter-autoconfigurer/eh-spring-boot-starter-autoconfigurer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eh-test-spring-boot-starer/eh-test-spring-boot-starer.iml" filepath="$PROJECT_DIR$/eh-test-spring-boot-starer/eh-test-spring-boot-starer.iml" />
+    </modules>
+  </component>
+</project>
